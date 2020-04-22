@@ -1,0 +1,11 @@
+C:\Start_NG\numberGuesser\obj\Debug\netcoreapp3.0\numberGuesser.csprojAssemblyReference.cache
+C:\Start_NG\numberGuesser\obj\Debug\netcoreapp3.0\numberGuesser.AssemblyInfoInputs.cache
+C:\Start_NG\numberGuesser\obj\Debug\netcoreapp3.0\numberGuesser.AssemblyInfo.cs
+C:\Start_NG\numberGuesser\bin\Debug\netcoreapp3.0\numberGuesser.exe
+C:\Start_NG\numberGuesser\bin\Debug\netcoreapp3.0\numberGuesser.deps.json
+C:\Start_NG\numberGuesser\bin\Debug\netcoreapp3.0\numberGuesser.runtimeconfig.json
+C:\Start_NG\numberGuesser\bin\Debug\netcoreapp3.0\numberGuesser.runtimeconfig.dev.json
+C:\Start_NG\numberGuesser\bin\Debug\netcoreapp3.0\numberGuesser.dll
+C:\Start_NG\numberGuesser\bin\Debug\netcoreapp3.0\numberGuesser.pdb
+C:\Start_NG\numberGuesser\obj\Debug\netcoreapp3.0\numberGuesser.dll
+C:\Start_NG\numberGuesser\obj\Debug\netcoreapp3.0\numberGuesser.pdb
