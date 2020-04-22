@@ -35,10 +35,7 @@ namespace numberGuesser
 
                     //Set correct random number between 1 - 10
                     Random random = new Random();
-                    int correctNumber = random.Next(0, 10);
-
-                    //Display user prompt to select appropriate level
-                    Console.WriteLine($"Here is the correct number {correctNumber}"); 
+                    int correctNumber = random.Next(0, 10); 
 
                     //User guessed value, default as 0
                     int guess = 0;
@@ -162,10 +159,7 @@ namespace numberGuesser
                 {
                     //Set correct random number between 1 - 20
                     Random random = new Random();
-                    int correctNumber = random.Next(0, 20);
-
-                    //Display user prompt to select appropriate level
-                    Console.WriteLine($"Here is the correct number {correctNumber}"); 
+                    int correctNumber = random.Next(0, 20); 
 
                     //User guessed value, default as 0
                     int guess = 0;
@@ -289,9 +283,6 @@ namespace numberGuesser
                     //Set correct random number between 1 - 50
                     Random random = new Random();
                     int correctNumber = random.Next(1, 50);
-
-                    //Display user prompt to select appropriate level
-                    Console.WriteLine($"Here is the correct number {correctNumber}"); 
 
                     //User guessed value, default as 0
                     int guess = 0;
